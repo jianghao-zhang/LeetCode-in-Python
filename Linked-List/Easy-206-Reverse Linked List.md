@@ -14,7 +14,8 @@ class Solution(object):
         :type head: ListNode
         :rtype: ListNode
         """
-        if not head: return head
+        if not head: 
+   return head
         prev = None
         cur = head
         """
